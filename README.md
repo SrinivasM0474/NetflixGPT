@@ -28,6 +28,12 @@
 - Update Store with Traier Video Data
 - Embedded the youtube video and make it auto play and mute
 - Tailwind classes to make MainContainer look awesome
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page amaxing with tailwind css
+- usePopularMovies custom hook
 
 # Features
 
