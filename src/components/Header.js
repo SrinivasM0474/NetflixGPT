@@ -52,12 +52,7 @@ const Header = () => {
   };
   return (
     <div className="absolute px-8 py-2 bg-gradient-to-b from-black to-transparent w-full z-10 flex justify-between items-center">
-      <img
-        src={LOGO}
-        alt="Netflix Logo"
-        className="w-44"
-        onClick={navigate("/")}
-      />
+      <img src={LOGO} alt="Netflix Logo" className="w-44" />
       {user && (
         <div className="flex items-center">
           {showGptSearch && (
